@@ -1,0 +1,23 @@
+{
+  "name": "travelve",
+  "version": "1.0.0",
+  "description": "A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carmentang/travelve.git"
+  },
+  "author": "Carmen Tang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carmentang/travelve/issues"
+  },
+  "homepage": "https://github.com/carmentang/travelve#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
