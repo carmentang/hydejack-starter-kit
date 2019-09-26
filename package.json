@@ -4,8 +4,8 @@
   "description": "A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "scss": "node-sass --watch scss -o css"
+    "test": "echo \"Error: no test specified\"",
+    "scss": "node-sass _sass -o css"
   },
   "repository": {
     "type": "git",
